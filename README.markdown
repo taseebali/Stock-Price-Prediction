@@ -1,4 +1,4 @@
-This project was solely based for learning purposes and should not be used as a financing solution for any kind.
+*_ This project was solely based for learning purposes and should not be used as a financing solution for any kind.
 
 ## Stock Price Prediction with LSTM
 
