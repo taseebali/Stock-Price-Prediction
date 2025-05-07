@@ -1,5 +1,4 @@
-*_ This project was solely based for learning purposes and should not be used as a financing solution for any kind.
-
+*_This project was solely based for learning purposes and should not be used as a financing solution for any kind._*
 ## Stock Price Prediction with LSTM
 
 This project implements a Long Short-Term Memory (LSTM) neural network to predict stock prices using historical data from Yahoo Finance. The model is built using PyTorch and includes data preprocessing, model training, and visualization of predictions.
